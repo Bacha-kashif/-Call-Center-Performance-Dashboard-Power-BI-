@@ -1,4 +1,4 @@
-# # 📞 Call Center Performance Dashboard (Power BI)
+# 📞 Call Center Performance Dashboard (Power BI)
 
 ## 🏢 Project Overview
 
