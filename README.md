@@ -7,6 +7,7 @@ This project presents a **Call Center Performance Dashboard** developed in Power
 The dashboard is designed to help stakeholders monitor key metrics in real-time and make **data-driven decisions** to improve service quality and optimize workforce management.
 
 ---
+![Call Center Dashboard](Call%20Center%20Analysis.png)
 
 ## ❗ Problem Statement
 
